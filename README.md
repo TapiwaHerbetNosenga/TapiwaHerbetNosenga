@@ -1,10 +1,9 @@
-# I am Herbet Tapiwa Nosenga and I am a student aspiring to become a front end software developer. I am very interested in emerging technologies that can improve the lives people worldwide and hope to one day help produce these technologies myself. #
+# I am Herbet Tapiwa Nosenga and I am a qualified full stack developer. I am very interested in emerging technologies that can improve the lives people worldwide and hope to one day help produce these technologies myself. #
 
 ## My skills and Technologies I have learned: ##
 * Javascript
-* HTML
-* CSS
-* Tailwind
+* NextJS
+* C
   
 ## My Projects: ##
 * [Mock Banking Website](https://github.com/TapiwaHerbetNosenga/HERNOS284_fto2401_A_HerbetNosenga_SDF11)
